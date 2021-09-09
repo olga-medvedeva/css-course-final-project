@@ -4,6 +4,7 @@
 HTML + CSS (adaptive layout)  
 
 ![123123123](https://user-images.githubusercontent.com/90202470/132730318-18a41aba-aff5-41fb-8fd7-a2e528589ab0.jpg)
-![12312312312](https://user-images.githubusercontent.com/90202470/132730419-0e7a4ec8-c3ee-4792-82cc-050f63cb606c.png)
+![12312312312](https://user-images.githubusercontent.com/90202470/132730523-333ed639-62d1-4b45-b4fb-bd1a7e33df97.png)
+
 
 
